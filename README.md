@@ -48,7 +48,7 @@
 ###  Contato
 <p align="center">
   [anelioliveira23@gmail.com](mailto:anelioliveira23@gmail.com) <br>
-  [LinkedIn](https://www.linkedin.com/in/aneli-santos) <br>
+  [LinkedIn](https:/www.linkedin.com/in/anne-shin) <br>
   [GitHub](https://github.com/aneli-hub)
 </p>
 
