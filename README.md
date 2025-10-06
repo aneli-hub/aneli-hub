@@ -8,7 +8,7 @@
 
 ### Sobre mim
 <p>
- Estudante apaixonada por tecnologia e programação, com experiência em desenvolvimento Front-End (HTML, CSS, JavaScript) e Python.  
+ Estudante que aprecia muito a tecnologia e programação, com experiência em desenvolvimento Front-End (HTML, CSS, JavaScript) e Python.  
  Ex-assistente financeira no Banco Santander, com habilidades em análise de dados e processos financeiros.  
  Curiosa por novas tecnologias, UX/UI e automações que tornam processos mais eficientes.
 </p>
