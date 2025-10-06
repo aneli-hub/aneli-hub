@@ -1,4 +1,4 @@
-<h1 align="center">👋 Oi, eu sou Aneli Santos</h1>
+<h1 align="center"> Oi, eu sou Aneli Santos</h1>
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas | Front-End & Python <br>
   Cotia-SP 
