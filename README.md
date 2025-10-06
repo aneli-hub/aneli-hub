@@ -1,16 +1,16 @@
 <h1 align="center">👋 Oi, eu sou Aneli Santos</h1>
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas | Front-End & Python <br>
-  📍 Brasil
+  Cotia-SP 
 </p>
 
 ---
 
-### 🚀 Sobre mim
+### Sobre mim
 <p>
-💻 Estudante apaixonada por tecnologia e programação, com experiência em desenvolvimento Front-End (HTML, CSS, JavaScript) e Python.  
-💼 Ex-assistente financeira no Banco Santander, com habilidades em análise de dados e processos financeiros.  
-📚 Curiosa por novas tecnologias, UX/UI e automações que tornam processos mais eficientes.
+ Estudante apaixonada por tecnologia e programação, com experiência em desenvolvimento Front-End (HTML, CSS, JavaScript) e Python.  
+ Ex-assistente financeira no Banco Santander, com habilidades em análise de dados e processos financeiros.  
+ Curiosa por novas tecnologias, UX/UI e automações que tornam processos mais eficientes.
 </p>
 
 ---
@@ -27,11 +27,11 @@
 
 ---
 
-### 🌟 Experiência & Projetos
-- 💼 **Banco Santander** – Assistente Financeira: Renegociação de dívidas e empréstimos consignados.  
-- 💻 **Projetos Front-End:** Criação de páginas web responsivas, integração com APIs e design moderno.  
-- 🐍 **Projetos Python:** Automação de tarefas, análise de dados com Pandas, web scraping com Selenium e POO.  
-- 📊 **Data & Analytics:** Manipulação de dados, criação de dashboards e relatórios gerenciais.
+###  Experiência & Projetos
+-  **Banco Santander** – Assistente Financeira: Renegociação de dívidas e empréstimos consignados.  
+-  **Projetos Front-End:** Criação de páginas web responsivas, integração com APIs e design moderno.  
+-  **Projetos Python:** Automação de tarefas, análise de dados com Pandas, web scraping com Selenium e POO.  
+-  **Data & Analytics:** Manipulação de dados, criação de dashboards e relatórios gerenciais.
 
 ---
 
@@ -43,10 +43,10 @@
 
 ---
 
-### 📬 Contato
+###  Contato
 <p align="center">
-  ✉️ [anelioliveira23@gmail.com](mailto:anelioliveira23@gmail.com) <br>
-  💼 [LinkedIn](https://www.linkedin.com/in/aneli-santos) <br>
-  🌐 [GitHub](https://github.com/aneli-hub)
+  [anelioliveira23@gmail.com](mailto:anelioliveira23@gmail.com) <br>
+  [LinkedIn](https://www.linkedin.com/in/aneli-santos) <br>
+  [GitHub](https://github.com/aneli-hub)
 </p>
 
