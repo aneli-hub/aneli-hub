@@ -50,7 +50,3 @@
   🌐 [GitHub](https://github.com/aneli-hub)
 </p>
 
----
-
-✨ *“A tecnologia move o mundo, e eu quero ajudar a construir o futuro dele.”*
-## Hi there 👋
